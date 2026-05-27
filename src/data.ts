@@ -83,7 +83,7 @@ export const products: Product[] = [
     name: "Titanium Lift",
     price: 210.00,
     category: "Running Shoes",
-    image: "https://images.unsplash.com/photo-1584735174965-0efc4b14eb02?auto=format&fit=crop&q=80&w=1000",
+    image: "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?auto=format&fit=crop&q=80&w=1000",
     rating: 4.8,
     reviews: 112,
     isNew: true,
